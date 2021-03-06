@@ -334,7 +334,8 @@ button
 	width: 30px;
 	height: 50px;
 	margin: 20px;
-	align-content: center;
+	justify-content: center;
+	display: flex;
 }
 
 .footer
